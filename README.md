@@ -12,7 +12,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `Demo here`
-To view the demo: [click here](https://vermadilip.github.io/CircleFollowCursor/)
+To view the demo: [click here](https://vermadilip.github.io/tic-tac-toe/)
 
 ![alt text](image.png)
 
